@@ -1,0 +1,11 @@
+fmutrans.egg-info
+.idea
+01_BouncingBall
+02_Building.GenBui
+build
+dist
+/mainUseCase.py
+/post_processing.py
+/useCase.py
+__pycache__
+modfmu.egg-info
